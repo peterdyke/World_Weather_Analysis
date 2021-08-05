@@ -1,10 +1,10 @@
 # Adding config.py file
 config.py
 
-#Adding API_practice and random_numbers
+#Adding API_practice, random_numbers, google_nearby_search
 random_numbers.ipynb
 API_practice.ipynb
-
+google_nearby_search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

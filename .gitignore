@@ -5,6 +5,8 @@ config.py
 random_numbers.ipynb
 API_practice.ipynb
 google_nearby_search.ipynb
+weather_data
+
 
 # Add .DS_Store
 .DS_Store

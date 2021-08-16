@@ -1,4 +1,4 @@
-,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
 0,Kununurra,AU,-15.7667,128.7333,85.98,21,34,17.27,scattered clouds
 1,Mareeba,AU,-17.0,145.4333,75.43,71,12,6.53,few clouds
 2,Prince Rupert,CA,54.3161,-130.3201,59.09,74,40,8.05,light rain
